@@ -106,4 +106,18 @@ Undergrounds, like Ethereum, demand high agency, just as history demands maturit
 
 [2] As Michel Foucault wrote in 1972: "Do not ask who I am and do not ask me to remain the same: leave it to our bureaucrats and our police to see that our papers are in order."
 
-![](/vector.png)
+to be sure - call it “**virtual capital**.”
+
+_________
+
+**This work was made possible with a generous grant from the [Arbitrum Minigrants](https://forum.arbitrum.foundation/t/plurality-labs-our-biggest-minigrants-yet-jokerace/20040) program.**
+
+**The Open Protocol Research Group is committed to locating alliances and design vectors between the open web and open cultures of all kinds. We are looking for further support in order to continue our research into more systematic and data driven frontiers. Reach out to us at [etherealforest.eth@protonmail.com](http://mailto:etherealforest.eth@protonmail.com/) if you are interested in sponsoring future publications.**
+
+
+
+**further support in order to continue our research into more systematic and data driven frontiers. Reach out to us at [etherealforest.eth@protonmail.com](http://mailto:etherealforest.eth@protonmail.com/) if you are interested in sponsoring future publications.**
+
+![](https://images.mirror-media.xyz/publication-images/idBOsHMAnpRiSBjru_UVi.png)
+
+![](https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png)
