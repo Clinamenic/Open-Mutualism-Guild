@@ -2,11 +2,13 @@
 author: Exeunt
 date: 2025-04-05
 ---
+# Economic Design Underneath the World
+
 “Sous le monde réel, il existe un monde idéal, qui se montre resplendissant à l’œil de ceux que des méditations graves ont accoutumés à voir dans les choses plus que les choses.”
-- Victor Hugo
+- **Victor Hugo**
 
 "**Undualing** is a means of preparing ground."
-- Austin Wade Smith
+- **Austin Wade Smith**
 
 Our project at OPRG began (and remains) an investigation into a structural analogy between open protocols of the web and the open cultural and technical protocols that drive and sustain underground cultures. That research is fundamentally mechanistic (machinic): despite its journeying into provocatively illegible corridors [1] - s&m dungeons, underground free parties, LSD - it was never intended to be a mysterian project. On the contrary, just as our friends in web3 have demystified money as a sacred category and brought it down to the plane of technical tweaking and practical revision, the protocol undergrounds are characterized by non-mysterian, empirical engagement with forces that often rule institutions from a hidden seat. 
 
