@@ -2,17 +2,18 @@
 author: Exeunt
 date: 2025-04-05
 ---
+# Undercapital *Redux*: Economic Design 'Underneath the World'
+
 *Sous le monde réel, il existe un monde idéal, qui se montre resplendissant à l’œil de ceux que des méditations graves ont accoutumés à voir dans les choses plus que les choses.*
 - **Victor Hugo**
 
 ***Undualing** is a means of preparing ground.*
 - **Austin Wade Smith**
 
+---
 
-# Undercapital Redux
-## Economic Design 'Underneath the World'
+## Protocol Undergrounds and the Force of the Virtual
 
-### Protocol Undergrounds and the Force of the Virtual
 Our project at OPRG began (and remains) an investigation into a structural analogy between open protocols of the web and the open cultural and technical protocols that drive and sustain underground cultures. That research is fundamentally mechanistic: despite its journeying into provocatively illegible corridors [1] - s&m dungeons, underground free parties, LSD - it was never intended to be a mysterian project. On the contrary, just as our friends in web3 have demystified money as a sacred category and brought it down to the plane of technical tweaking and practical revision, the protocol undergrounds are characterized by non-mysterian, empirical engagement with forces that often rule institutions from a hidden seat. 
 
 The variations of [this model](https://grattoncourses.wordpress.com/wp-content/uploads/2012/11/structure-sign-and-play-in-the-human-sciences-derrida.pdf) are many. If sex and libidinous power go unspoken in institutional settings, underground critique suggests, it only underwrites the extent to which they often dictate institutional behavior. Schools, offices and prisons pretend a neutral non-aesthetic that barely conceals the [great aesthetic power](https://www.amazon.com/Symbolic-Misery-1-Hyperindustrial-Epoch/dp/0745652654) of those settings. Messy vibes and extitutional forces prevail - all the more readily when their privilege is concealed. The task of the underground, free from the compulsions of institutional life, the positivistic grammars that are so often used to obfuscate a fundamental relationship of control and extraction, is to *materialize* and ***democratize*** these forces. Replacing the anti-empiricism of institutional protocols, the open protocols that animate the undergrounds are *realist*, even and especially if in some conditions that means commerce with dimensions of reality that are, to borrow a phrase, "real but not actual." [2]
@@ -30,7 +31,7 @@ This nondual character of the virtual, to distinguish from certain religious exp
 To survey the protocol underground is to survey an expanse of economic and organizational artifices developed around this experience of nondual possibility as a *practical asset*. It is recessive, yes - those nights of possibility are scarce and fragile - but the practicalism of the underground asserts this nondual experience is **not supernatural**, not something to be quarantined into place where it can be a site of collusion, a source of arbitrary authority. Instead, it should be encountered, poked, engaged - directly. It is (as we are) *material*: despite its reclusiveness or agential capacity [4] to withdrawal at will, it is available to us.
 
 ---
-### Does the Virtual Animate Landua's Eight Forms of Capital?
+## Does the Virtual Animate Landua's Eight Forms of Capital?
 
 Undercapital was [originally posed](https://www.extitutional.space/Articles/Undercapital) as an expanse of economic activity made legible once we include virtual capital as a ninth term in Gregory Landua's seminal Eight Forms of Capital.[5] This includes not only the opportunity for the multiple forms of money (unit of account, means of exchange, store of value) to be applied to the diverse interests of the eight forms, but also the tendency of the forms to ***recede into themselves*** in corridors of value which express their virtual life. Even financial capital has a perverse ecstasy of arbitrary quantification which leads to a generative vision of the nondual, [6] but one can picture the spectrum: cultural capital felt in its pure network value, beholden to nothing else; psilocybin or other mindful retreats of the nondual as corridors into living capital as an end in itself. Who among us hasn't felt the lazy-stoned-day comfort of immersion into what those on the extensive plane would call social capital (i.e., friendship)? How many industrial traffickers of quartz or bauxite have been touched by the profound in-itselfness of material capital? No mere means, but an end.[7]
 
@@ -43,7 +44,7 @@ In magical or religious literature, in military hymns or national anthems, even 
 And this demystification as well calls for prying out the socialized virtual from the exceptional and often youth or class-contingent experiences where we are most familiar with it. Undercapital says: **There is a viable engineering space of processual, nondualist design that undergrounds are only a hints of.** We see them circulating protocols, constructing how-to guides, develop best practices not for the end of accumulation, not for remote ends at all, but to locate an in itselfness felt in its direct, unmediated presence. The ethos thrives in the world of art and dance. It can thrive too in the world of food production, medicine, economics, co-living. The challenge of the underground and of undercapital says: We have to start thinking of social organization in terms of public management and private obfuscation of wells of nondual experience.
 
 ---
-## We have to start thinking of social organization in terms of community management and private obfuscation of wells of nondual experience.
+### We have to start thinking of social organization in terms of community management and private obfuscation of wells of nondual experience.
 
 ---
 
@@ -52,7 +53,7 @@ The virtual, then, is a bridge to another regime of experience, one which has im
 But nondual experience is not deterministic, and visitation to the realm of undercapital is not terminal. Beyond demystification and socialization, there is a pathway of reciprocity and exchange between the structural and the processual, inasmuch as nondual engagements with material singularities are also sites of **neuroplasticity** capable of deprogramming destructive or zombie dependency on regimes of knowledge which have ceased to serve their purpose. Through immersion in this process space - once called "the Mauve Zone" by a certain occult practitioner - one finds potential for ontological regimes that are tolerant of different kinds of agencies, be they distributed cognitions, ecological agents, animals, plants, mycelia, protozoa, even living concepts and "colors out of space." 
 
 ---
-### 'Undualing': Nature as Parallax
+## 'Undualing': Nature as Parallax
 
 [The array of potential minds](https://www.noemamag.com/ai-could-be-a-bridge-toward-diverse-intelligence/) is vast, their presence potential ubiquitous. Our mobility between structural hierarchies of agency - regimes that might afford, in their multiplicity, the full spectrum of what lives and thinks - depends on our access to mauve zones of plasticity that allow for travel between them. The virtual should not be instrumentalized to an external end, but it does constitute a resource beyond its immanent experience inasmuch as recognition of the broader fields of reality is key to our survival.
 
@@ -62,7 +63,7 @@ Within the undual multitude, we find a whole panorama of regimes of experience, 
 
 The virtual, with its vision of parallax or superposed potency, is the very vehicle for traversing between these lenses - as well as the tether that holds them in enough mutual coherence to remain grounded and socially coherent. If the fate of undercapital is to leave the special autonomous zones of the underground and weave this potent force of undualing into the procedural realms of economic organization, governance, and social production, it will need wild technical frameworks.
 
-### Conclusion: Toward Vagabond Technologies
+## Conclusion: Toward Vagabond Technologies
 
 In *A Thousand Plateaus*, Deleuze and Guattari invoke a "protogeometry that addresses vague, in other words, vagabond or nomadic, morphological essences." These are different than the structural and enclosed categories of institutions life; they are "distinct from sensible things, as well as from ideal, royal, or imperial essences. Protogeometry, the science dealing with them, is itself vague, in the etymo- logical sense of "vagabond": it is neither inexact like sensible things nor exact like ideal essences, but *anexact yet rigorous* (essentially and not accidentally inexact)... It could be said that vague essences extract from things a determination that is more than *thinghood* (choseite), which is that of *corporeality* (corporeite), and which perhaps even implies an *esprit de corps.*" [8]
 
