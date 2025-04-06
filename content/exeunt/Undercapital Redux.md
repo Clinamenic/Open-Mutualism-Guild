@@ -2,14 +2,15 @@
 author: Exeunt
 date: 2025-04-05
 ---
-# Undercapital Redux
-## Economic Design 'Underneath the World'
-
-“Sous le monde réel, il existe un monde idéal, qui se montre resplendissant à l’œil de ceux que des méditations graves ont accoutumés à voir dans les choses plus que les choses.”
+*Sous le monde réel, il existe un monde idéal, qui se montre resplendissant à l’œil de ceux que des méditations graves ont accoutumés à voir dans les choses plus que les choses.*
 - **Victor Hugo**
 
-"**Undualing** is a means of preparing ground."
+***Undualing** is a means of preparing ground.*
 - **Austin Wade Smith**
+
+
+# Undercapital Redux
+## Economic Design 'Underneath the World'
 
 ### Protocol Undergrounds and the Force of the Virtual
 Our project at OPRG began (and remains) an investigation into a structural analogy between open protocols of the web and the open cultural and technical protocols that drive and sustain underground cultures. That research is fundamentally mechanistic: despite its journeying into provocatively illegible corridors [1] - s&m dungeons, underground free parties, LSD - it was never intended to be a mysterian project. On the contrary, just as our friends in web3 have demystified money as a sacred category and brought it down to the plane of technical tweaking and practical revision, the protocol undergrounds are characterized by non-mysterian, empirical engagement with forces that often rule institutions from a hidden seat. 
@@ -19,9 +20,12 @@ The variations of [this model](https://grattoncourses.wordpress.com/wp-content/u
 The ***Undercapital*** essay attempted to illustrate how one such force - or maybe a metacategory of many such forces - could be understood as a major feature of economics and governance in extitutional settings: the virtual. As we argued, there are mechanistic social structures in non-institutional life for which a model of the virtual offers unique explanatory power. And yet, if we hope to contribute to the open protocols with their assertive memeticism, we have to grapple with the obscurity of that term, which begs confusion with VR or the colloquial term for the digital realm (even while its true referent is more of a philosophical dialogue (Deleuze-Bergson-Plato) than a straightforward definition). The term is obscure, but this obscurity is functional.
 
 Brian Massumi, likely the strongest commentator on the virtual since his **Parables of the Virtual** (which weaponized both Deleuze and Bergson's use of the term to wildly exploratory ends), writes here of the inherent difficulty of the term: 
-	The virtual is a slippery concept. It is by nature elusive. I call it "recessive." It does not expend itself in its effect. It withdraws back into itself, constituting in the same stroke the just-past of that effect, and the to-come of the next. It is always in the gaps between chronological moments, in a nonlinear, recursive time of its own: just past-yet to come; future-past. When the virtual withdraws back into itslef in the gaps in the actual, it has no "place" to go. It goes only in its own return. [3]
 
-In the spirit of demystification and practical efficacy, we will avoid this slippery game for now and describe an encounter with the virtual as "a generative experience of nondual potentiality." Why these descriptors? First, it involves a breakdown of subject-object boundaries - it is, to use Massumi's language, "intensive" rather than extensive or extrinsic, meaning it deals in qualitative, affective, processual, pre-representational, raw experience. This nondual character of the virtual, to distinguish from certain religious experiences, is not quietist: it invites into action, disjoints the time and the categorical rule, and gives permission to ways of inhabiting the world unthinkable to a given representational regime. As noted in the original **Undercapital** essay, the common report from certain events and parties, or sometimes radical moments of romantic/sexual intimacy, "that night it felt like anything was possible" is a perfect encapsulation of the generativity and potentiality of the virtual. 
+>    The virtual is a slippery concept. It is by nature elusive. I call it "recessive." It does not expend itself in its effect. It withdraws back into itself, constituting in the same stroke the just-past of that effect, and the to-come of the next. It is always in the gaps between chronological moments, in a nonlinear, recursive time of its own: just past-yet to come; future-past. When the virtual withdraws back into itself in the gaps in the actual, it has no "place" to go. It goes only in its own return. [3]
+
+In the spirit of demystification and practical efficacy, we will avoid this slippery game for now and describe an encounter with the virtual as "a generative experience of nondual potentiality." Why these descriptors? First, it involves a breakdown of subject-object boundaries - it is, to use Massumi's language, "intensive" rather than extensive or extrinsic, meaning it deals in qualitative, affective, processual, pre-representational, raw experience. 
+
+This nondual character of the virtual, to distinguish from certain religious experiences, is not quietist: it invites into action, disjoints the time and the categorical rule, and gives permission to ways of inhabiting the world unthinkable to a given representational regime. As noted in the original **Undercapital** essay, the common report from certain events and parties, or sometimes radical moments of romantic/sexual intimacy, "that night it felt like anything was possible" is a perfect encapsulation of the generativity and potentiality of the virtual. 
 
 To survey the protocol underground is to survey an expanse of economic and organizational artifices developed around this experience of nondual possibility as a *practical asset*. It is recessive, yes - those nights of possibility are scarce and fragile - but the practicalism of the underground asserts this nondual experience is **not supernatural**, not something to be quarantined into place where it can be a site of collusion, a source of arbitrary authority. Instead, it should be encountered, poked, engaged - directly. It is (as we are) *material*: despite its reclusiveness or agential capacity [4] to withdrawal at will, it is available to us.
 
@@ -68,7 +72,7 @@ This project will continue with three candidates for vagabond technologies that 
 
 - Intent centric web3 applications (of the kind explored by [Anoma](https://anoma.net))
 - [Feral Computing](https://mirror.xyz/austinwadesmith.eth/wrBCeIWNsXbseQiLBj5jR_bkMFZ03nNYs4rg0lU8X2s) a (a kind of practice of applied technological undualing being developed by Austin Wade Smith - further entries in this project will explore feral computing in greater detail)
-- Field Ontology Method (a personal prototype for instrument based encounters with nonhuman ecologies under pluralistic knowledge regimes).
+- Field Ontology Method (a personal prototype for instrument-based encounters with nonhuman ecologies under pluralistic knowledge regimes).
 
 Undercapital's technological optimism is one of ethical creativity, but it's equally about the subversive power gained when social bodies assert the naturalistic immediacy of liminal and nondual states - not as sacred or remote, but as an inherent feature of the dynamism of the plane of nature. 
 
