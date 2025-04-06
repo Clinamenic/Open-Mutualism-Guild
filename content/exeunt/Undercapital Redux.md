@@ -5,10 +5,10 @@ date: 2025-04-05
 # Undercapital *Redux*: Economic Design 'Underneath the World'
 
 *Sous le monde réel, il existe un monde idéal, qui se montre resplendissant à l’œil de ceux que des méditations graves ont accoutumés à voir dans les choses plus que les choses.*
-- **Victor Hugo**
+-**Victor Hugo**
 
 ***Undualing** is a means of preparing ground.*
-- **Austin Wade Smith**
+-**Austin Wade Smith**
 
 ---
 
