@@ -1,0 +1,34 @@
+{
+    "rubric": {
+      "description": "Rubric for evaluating Ethereum assembly objects composed from technical primitives.",
+      "criteria": [
+        {
+          "name": "Modularity",
+          "definition": "Is the assembly composed of reusable components that can integrate across contexts or other assemblies?",
+          "scoring_range": "1 (low modularity) to 5 (high modularity)"
+        },
+        {
+          "name": "Cognitive Expansion",
+          "definition": "Does the assembly enable new forms of action, sensing, feedback, or decision-making for users or systems?",
+          "scoring_range": "1 (no new capabilities) to 5 (radically extends agency)"
+        },
+        {
+          "name": "Mutualism",
+          "definition": "Does the assembly support cooperation, public goods production, localism, or trust-based coordination?",
+          "scoring_range": "1 (extractive or individualist) to 5 (deeply mutualistic)"
+        },
+        {
+          "name": "Novelty",
+          "definition": "Is the combination of primitives surprising, generative, or uniquely emergent in function or form?",
+          "scoring_range": "1 (conventional) to 5 (strikingly original)"
+        },
+        {
+          "name": "Feasibility",
+          "definition": "Is the assembly plausible and implementable using current Ethereum tooling and infrastructure?",
+          "scoring_range": "1 (theoretical only) to 5 (immediately deployable)"
+        }
+      ],
+      "scoring_method": "Each proposed assembly object is scored from 1–5 on each of the 5 criteria. Highest total score wins per cycle unless otherwise justified by evaluator rationale."
+    }
+  }
+  
