@@ -1,6 +1,6 @@
 ---
 title: "What is Ethereum Localism?"
-publishDate: June 29, 2024
+date: 2024-06-29
 ---
 
 When we first suggested the theme of Ethereum Localism in anticipation of the GFEL conference, it was a totally open ended provocation, meant to stir up a diversity of interpretations. The result was definitely generative, putting varied bioregional thinkers in sync, exposing members of the Ethereum community to the Collaborative Finance (CoFi) meme, and even helping to spur the creation of the MyCoFi [book](https://greenpill.network/pdf/mycofi.pdf). It also sprouted a conversation which eventually led to the temporary suspension of PDX DAO until such a time as there is a sufficient network infrastructure in place to generate a meaningfully decentralized City DAO by that name (the time is nigh!). 
