@@ -6,7 +6,7 @@ author: exeunt
 
 ### An Attempt at Some Definitions
 
-![alt text](univereseeing.jpeg)
+![alt text](https://pbs.twimg.com/media/GwNU1MgWkAAb35w?format=jpg&name=medium)
 
 Last year, OPRG attempted to generate some terms to describe social phenomena that mirrored open source culture in some ways, but were distinct. First among these were “open protocols.” 
 
