@@ -1,14 +1,12 @@
 ---
 title: Open Protocols, Extitutions, Protocol Undergrounds
-date: 2024-02-08
+date: 2025-07-18
 author: exeunt
 ---
 
 ### Open Protocols, Extitutions, Protocol Undergrounds: An Attempt at Some Definitions
 
-![](univereseeing.jpeg)
-
-Open Protocols, Extitutions, Protocol Undergrounds: An Attempt at some Definitions
+![alt text](../../univereseeing.jpeg)
 
 Last year, OPRG attempted to generate some terms to describe social phenomena that mirrored open source culture in some ways, but were distinct. First among these were “open protocols.” 
 
