@@ -1,6 +1,5 @@
 
 ---
-title: Noöpunk: Toward Economic Experiments with the Carnival of Minds
 author: Exeunt
 date: 2025-07-26
 ---
