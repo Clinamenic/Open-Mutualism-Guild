@@ -1,4 +1,3 @@
-
 ---
 author: Exeunt
 date: 2025-07-26
